@@ -223,7 +223,7 @@ position: relative;
 .box-text {
     border-right: 1px solid #eaeaea;
     padding-right: 55px;
-    flex-basis:
+    
 }
 .box-item:last-child.box-text {
     border-right: none;
@@ -239,6 +239,7 @@ position: relative;
     color: #282828;
     line-height: 24px;
     margin-top: 0;
+    
 }
 .btn-start {
     color: #fff;
